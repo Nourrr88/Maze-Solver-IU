@@ -1,11 +1,5 @@
-"""A very simple Smart Maze Solver using BFS and Tkinter.
-
-How to use:
-1. Choose a mode: Wall, Start, or Goal.
-2. Click cells in the grid.
-3. Press "Solve with BFS".
-
-No extra Python packages are needed. Tkinter normally comes with Python.
+"""
+A very simple Smart Maze Solver using BFS
 """
 
 import tkinter as tk
